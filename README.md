@@ -13,3 +13,5 @@ az eredményt a kliens számára.
   * route (tetszőleges argumentumokkal)
   * arp (tetszőleges argumentumokkal)
   * ifconfig (tetszőleges argumentumokkal)
+
+![](http://i.imgur.com/zgnmNd4.gif)
